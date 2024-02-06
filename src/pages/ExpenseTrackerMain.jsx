@@ -12,9 +12,7 @@ const ExpenseTrackerMain = () => {
       <div className="expense-content">
         <h1>Track Your Expenses</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-          adipisci perferendis dicta. Iste ad illum tempora sint? Aperiam,
-          perspiciatis dolorem.
+        Stay on top of your finances and track your expenses with the help of our user-friendly expense tracker tool. Take control of your budget, monitor your spending habits, and make informed financial decisions to achieve your financial goals.
         </p>
         <Link to="/expense">
           <button className="expense-btn">Track</button>

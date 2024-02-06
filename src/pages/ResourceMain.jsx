@@ -14,9 +14,7 @@ const ResourceMain = () => {
       <div className="resource-content">
         <h1>Resources</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-          adipisci perferendis dicta. Iste ad illum tempora sint? Aperiam,
-          perspiciatis dolorem.
+        Welcome to our comprehensive resource hub designed to support your academic journey and enhance your college experience. Explore a wealth of resources carefully curated to provide you with valuable tools, information, and guidance for success.
         </p>
 
         <Link to="/resources">

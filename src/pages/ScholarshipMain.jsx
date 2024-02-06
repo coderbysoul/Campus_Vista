@@ -7,9 +7,7 @@ const ScholarshipMain = () => {
       <div className="scholarship-content">
         <h1>Scholarships</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-          adipisci perferendis dicta. Iste ad illum tempora sint? Aperiam,
-          perspiciatis dolorem.
+        Unlock your potential and pursue your educational goals with the help of scholarships. Discover a range of scholarship opportunities tailored to support students like you in achieving academic success.
         </p>
         <Link to="/scholarships">
           <button className="scholarship-btn">See more</button>
