@@ -1,5 +1,5 @@
 import React from "react";
-import { ButtonGroup } from "@material-ui/core";
+import  ButtonGroup  from "./ButtonGroup";
 import TimerButton from "./TimerButton";
 import Time2 from "./Time2";
 import mediaudio from '../../src/audio/music.mpeg';
